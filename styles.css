@@ -70,26 +70,47 @@ h1, h2, h3, h4, h5 {
 p , ul li{
     font-family: Arial, Helvetica, sans-serif;
 }
+
 .card-header{
-    color: #fff;;
-    background-color: #0A2740;;
+    color: #fff;
+   
 }
+
+/* .card-body h1{
+    color: #fff;
+} */
 
 .btn-primary {
     color: black;
-    background-color:#D9CD23;;
-    border-color: black;
+    background-color:#D9CD23;
+   
 }
 
 .btn-primary:hover{
-    color: #fff;
-    background-color:#525919;
-    border-color: #fff;
+    color: #fff !important;
+    border-color: #fff !important;
+    background-color: #34401A !important;
+
+    
+}
+.btn-primary:active:focus{
+    background-color: #0A2740 !important;
+
 }
 
 
 div.button {
     position: absolute;
     bottom: 1.25rem;
+
+  }
+
+.card-body-2, .card-body-3{
+    position: relative;
+}  
+.card-body-2 button, .card-body-3 button{
+    position: absolute;
+    bottom: 1.25rem;
+    width: calc(100% - 2.5rem);
 }
 
