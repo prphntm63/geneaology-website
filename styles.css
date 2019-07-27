@@ -1,3 +1,4 @@
+
 :root {
     --blue: #007bff;
     --indigo: #6610f2;
@@ -27,4 +28,67 @@
     --breakpoint-xl: 1200px;
     --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+/* Custom Color Classes:  Forest Theme*/
+.navy-blue-ft{color: #0A2740;}
+
+.navy-blue-bg{background-color: #0A2740;}
+
+.navy-blue-bdr{border: 1px solid #0A2740;}
+
+.dark-green-ft{color: #34401A;}
+
+.dark-green-bg{background-color:#34401A;}
+
+.dark-green-bdr{border: 1px solid #34401A;}
+
+.green-ft{color: #525919;}
+
+.green-bg{background-color: #525919;}
+
+.green-bdr{border: 1px solid #525919;}
+
+.light-green-ft{color: #687319;}
+
+.light-green-bg{background-color: #687319;}
+
+.light-green-bdr{border: 1px solid #687319;}
+
+.yellow-green-ft{color: #D9CD23;}
+
+.yellow-green-bg{background-color: #D9CD23;}
+
+.yellow-green-bdr{border: 1px solid #D9CD23;}
+
+/* ****************************************** */
+
+h1, h2, h3, h4, h5 {
+    font-family: '"Palatino Linotype", "Book Antiqua", Palatino, serif';
+}
+
+p , ul li{
+    font-family: 'Arial, Helvetica, sans-serif';
+}
+.card-header{
+    color: #fff;;
+    background-color: #0A2740;;
+}
+
+.btn-primary {
+    color: black;
+    background-color:#D9CD23;;
+    border-color: black;
+}
+
+.btn-primary:hover{
+    color: #fff;
+    background-color:#525919;
+    border-color: #fff;
+}
+
+
+div.button {
+    position: absolute;
+    bottom: 1.25rem;
   }
