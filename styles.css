@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 :root {
     --blue: #007bff;
     --indigo: #6610f2;
@@ -28,7 +28,7 @@
     --breakpoint-xl: 1200px;
     --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-=======
+}
 h1, h2, h3, h4, h5 {
     font-family: '"Palatino Linotype", "Book Antiqua", Palatino, serif';
 }
@@ -57,5 +57,5 @@ p , ul li{
 div.button {
     position: absolute;
     bottom: 1.25rem;
->>>>>>> Stashed changes
+
   }
