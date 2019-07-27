@@ -71,6 +71,12 @@ p , ul li{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
+
+.services-container{
+    background-image: url("services/images/background.jpg");
+ 
+}
 .card-header{
     color: #fff;
    
