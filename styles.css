@@ -108,9 +108,7 @@ p , ul li{
 div.button {
     position: absolute;
     bottom: 1.25rem;
-<<<<<<< HEAD
-
-  }
+}
 
 .card-body-2, .card-body-3{
     position: relative;
@@ -120,8 +118,7 @@ div.button {
     bottom: 1.25rem;
     width: calc(100% - 2.5rem);
 }
-=======
-}
+
 
   * {
     box-sizing: border-box;
@@ -177,5 +174,3 @@ div.button {
       width: 100%;
       margin-top: 0;
     }
-  }
->>>>>>> WIP just making sure everything was commited from my branch
