@@ -121,6 +121,24 @@ div.button {
     width: calc(100% - 2.5rem);
 }
 
+.card1:hover{
+    background-image: url("services/images/fairytale-image-one.jpg");
+    color: white;
+    text-shadow: 2px 2px black;
+   
+}
+
+.card2:hover{
+    background-image: url("services/images/fairytale-image-two.jpg");
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.card3:hover{
+    background-image: url("services/images/fairytale-image-three.jpg");
+    color: white;
+    text-shadow: 2px 2px black;
+}
 
   * {
     box-sizing: border-box;
