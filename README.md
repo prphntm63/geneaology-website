@@ -1,3 +1,4 @@
+This was my very first project using flex box css, html and limited javascript to make everything scaleable. I was the contact page and i did not push my content to the border like everyone else. Reason being it was done last minute and i left it as is.
 # GENEAOLOGY-WEBSITE
 *Genealogy services website for DigitalCrafts group project #1*
 
